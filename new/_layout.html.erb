@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru-ru" lang="ru-ru" dir="ltr" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<title>Fontseek: <%= @title %>  </title>
+<meta name="keywords" content="FontSeek" />
+<meta name="description" content="FontSeek" />
+<link rel="stylesheet" href="css/style.css" type="text/css" />
+</head>
+<body class="inside">
+	<div id="header">
+		<img src="images/logo.png" alt="FontSeek Logo" class="logo"/>
+		<a href="#" title="Home" class="active">Home</a>
+		<a href="#" title="Live-Seach">Live-Seach</a>
+		<a href="#" title="Top Fonts">Top Fonts</a>
+		<a href="#" title="Font Viewer">Font Viewer</a>
+		<div>
+			October 10 2010
+			<img src="images/flag.gif" alt="Deutsch Flag" /> 
+			<a href="#" title="Switch to Deutsch">Switch to Deutsch</a>
+		</div>
+	</div>
+	<div id="content">
+		<div class="block-commercial">
+			<div class="block-top">
+				<div class="corner-left-top">&nbsp;</div>
+				<div class="corner-right-top">&nbsp;</div>
+                <h1>   <%= @title %>  </h1>
+			</div>
+            <%= yield %>
+			<div class="block-bottom">
+				<div class="corner-left-bottom">&nbsp;</div>
+				<div class="corner-right-bottom">&nbsp;</div>
+			</div>
+		</div>
+	</div>
+	<div id="footer">
+			<ul>
+			<li>
+				<h3>Find Fonts</h3>
+				<a href="#" title="Search free fonts">Search free fonts</a>
+				<a href="#" title="Search statistics">Search statistics</a>
+				<a href="#" title="Font library">Font library</a>
+			</li>
+			<li>
+				<h3>Work with us</h3>
+				<a href="#" title="Add FontSeek to your site">Add FontSeek to your site</a>
+				<a href="#" title="Submit your site">Submit your site</a>
+			</li>
+			<li>
+				<h3>Font information</h3>
+				<a href="#" title="Font Viewer">Font Viewer</a>
+				<a href="#" title="Foundry">Foundry</a>
+				<a href="#" title="Download free fonts">Download free fonts</a>
+			</li>
+			<li>
+				<h3>About FontSeek</h3>
+				<a href="#" title="German">German</a>
+				<a href="#" title="Legal">Legal</a>
+			</li>
+			<li class="copy">
+			Copyright &copy; 2007-2010 FontSeek
+			</li>
+			</ul>
+	</div>
+</body>
+</html>
