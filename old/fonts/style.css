@@ -1,0 +1,65 @@
+/* base styles */
+html, body {margin:0; padding: 0; height: 100%}
+* {font-family: Trebuchet MS,verdana,arial,sans-serif; text-decoration: none;}
+a img {border: 0}
+body {background: #ffffff url(img/nav/body_bg.gif) 0 0 repeat-x}
+
+a:link, a:visited {color:#888880}
+a:hover, span {color:#111118}
+
+h1 {font-size:1.5em; font-weight:bold; text-decoration:underline; color:#000000}
+p {margin:0.3em 0; padding:0; line-height:1.3em; font-size:0.8em; color:#888880}
+
+#header {
+  background:#000000;
+  width:100%;
+  text-align:left;
+  padding-top:1em;
+  padding-bottom:1em;
+  position: absolute;	top: 0; width: 100%;
+}
+#header * {font-size: 1.5em; padding-right:2em}
+#header a:link, #header a:visited {color: #eeeee4}
+#header a:hover, #header span {color: #d35956}
+
+#Logo {position:absolute;top:0px; bottom:0px; width:1em; background-color:#b0302d; }
+
+#button {margin:auto; width:132px; height:74px; background-image:url(button.jpg); background-repeat:no-repeat; background-position:center center; background-attachment:scroll; text-align:center;vertical-align:middle}
+#button * {font-size:14px}
+#button strong {font-size:20px;font-weight:bold;line-height:40px}
+#button a:link, #button a:visited {color:#fff}
+#button a:hover {color: #ffffef}
+
+#footer {
+  background:#eeeee4;
+  width:100%;
+  text-align:center;
+  padding-top:0.3em;
+  padding-bottom:0.3em;
+  position:fixed; bottom:0;	width:100%;
+}
+
+div#rounded{background: #eeeee4}
+strong.rtop, strong.rbottom{display:block;background: #fff}
+strong.rtop strong, strong.rbottom strong{display:block;height: 1px; overflow: hidden; background: #eeeee4}
+strong.r1{margin: 0 5px}
+strong.r2{margin: 0 3px}
+strong.r3{margin: 0 2px}
+strong.rtop strong.r4, strong.rbottom strong.r4{margin: 0 1px;height: 2px}
+
+
+/* misc */
+.Ad{float:right;height:620px;width:160px}	/* 20px mehr, da sonst von Footer überdeckt */
+.alcenter {text-align: center;}
+
+.hr {margin: 8px 0; background: transparent url(img/nav/hr.gif) 0 0 repeat-x; height: 2px; overflow: hidden; font-size: 1px; line-height: 1px}
+.grey {color: #7d7d7d ! important}
+.klein {font-size: 0.7em ! important}
+
+
+
+/*
+#header a:hover, #header span {color: #c8e0f4}
+
+
+*/

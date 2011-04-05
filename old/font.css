@@ -1,0 +1,17 @@
+/* Formate */
+
+body td {font-family:Verdana,sans-serif;font-size:9px;}
+strong {text-decoration:underline;}
+
+.menu {text-decoration:none; color:#FFCC00; font-family:Verdana,sans-serif; font-size:10pt; font-weight:bold;}
+.menu:hover {text-decoration:underline; color:"limegreen";}
+
+.info {font-family:tahoma,sans-serif;font-size:5pt; color:#c8c8c8;}
+
+#AZ a {text-decoration:none; padding:7px}
+#AZ a:hover {background-color:#7b1829; color:#fff;text-decoration:none}
+
+/* unite font.css and fonts.css to one css file  */
+#wo{color:#999;}
+#wo a:link{color:#999;text-decoration:none;}
+#wo a:hover{color:#666;text-decoration:underline;}

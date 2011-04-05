@@ -1,0 +1,47 @@
+/* styles fuer fsearch_template.html+/fonts */
+body {margin:6px; padding:6px; height:100%}
+* {font-family:verdana,sans-serif; font-size:9pt; text-decoration:none;}
+a img {border: 0}
+body {background: #ffffff url(images/bg2.gif) 0 0 repeat-x}
+
+a:link, a:visited {color:#6b1819}
+a:hover {color:#a00; text-decoration:underline}
+h1 {font-size:17pt; font-weight:bold;color:#7b1829;text-align:center}
+p {margin:0.3em; line-height:1.3em}
+
+#menu * {font-size:14px;font-weight:bold;white-space:nowrap}
+#menu a:link, #menu a:visited {color:#ffcc00}
+#menu a:hover {color:#ffee55}
+.searchform {vertical-align:middle;float:right}
+
+#wo{color:#999;}
+#wo a:link{color:#999;text-decoration:none;}
+#wo a:hover{color:#666;text-decoration:underline;}
+
+/* mit free-Klasse werden überbreite Bilder gekürzt */
+table.free{margin:auto; font-size: 9pt; color:#C0C0C0; text-align:center; table-layout:fixed; width:800px}
+.free td {width:400px; height:100px; text-align:center}
+
+/* misc */
+.Ad {float:right;width:160px;margin-left:40px}	/* 20px mehr, da sonst von Footer überdeckt */
+.alcenter {text-align: center}
+.klein {font-size:0.8em}
+.grau {color:#808080}
+.Feld {font-size:8pt; font-style:italic; color:#806060; border:1px solid #6b1819; margin:0.5em 0;}
+
+/* Ordner font */
+table.block {margin:auto} /*Text lang:linksbündig, kurz:zentriert */
+
+#AZ a {text-decoration:none; padding:7px}
+#AZ a:hover {background-color:#7b1829; color:#fff;text-decoration:none}
+
+table.preview {border-collapse: collapse; border-spacing: 0; margin: 0 auto;}
+.preview tr {border-top: solid 1px #e5e5e5;}
+.preview th {background:#efefef ; color:#883333; text-align:left; font-weight:bold; line-height:27px; font-size:1em; padding: 0 15px}
+.preview td {vertical-align: middle; padding: 0 15px}
+
+#footer {background:#eeeeee; text-align:center; padding:5pt; clear:both}
+
+/*
+.preview td.mid {any}
+*/

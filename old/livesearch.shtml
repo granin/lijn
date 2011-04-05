@@ -1,0 +1,148 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="keywords" CONTENT="font search engine, free fonts search engine, Schrift, Schriftart, type, font, fonts, typeface, typography, TrueType, postscript type 1, search, seek, suchen, finde, find, looking for, ttf, archive, web, Internet, file, download, free, engine, how, where">
+   <META NAME="URL" CONTENT="http://www.fontseek.com">
+   <META NAME="description" CONTENT="free fonts search download">
+   <META NAME="Abstract" CONTENT="truetype and type 1 fonts search">
+   <META NAME="robots" CONTENT="all, index, follow">
+   <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline v2.0" l gen true for "http://www.fontseek.com"  r (nz 1 vz 1 lz 1 oz 1 cz 1) "http://www.rsac.org/ratingsv01.html" l gen true for "http://www.fontseek.com"  r (n 0 s 0 v 0 l 0))'>
+   <TITLE>Live Search - See what other visitors are searching for!</TITLE>
+<link rel=stylesheet type="text/css" href="font.css">
+</head>
+<body text="#000000" background="images/bg2.gif" bgcolor="#FFFFFF" link="#6B1819" topmargin="6" leftmargin="6" marginheight="6" marginwidth="6">
+<TABLE ALIGN=RIGHT VALIGN=TOP CELLSPACING=0 CELLPADDING=0>
+<TR>
+<TD ALIGN=RIGHT VALIGN=TOP>
+ <FONT FACE="Verdana,Arial,Helvetica" COLOR=#BBBBBB SIZE=-2>
+ <SCRIPT language="JavaScript">
+ <!--
+  var today = new Date();
+  Y = today.getYear();
+  if(Y < 2000) Y+=1900;
+  n = today.getMonth();
+  var M = new Array("January","February","March","April","May","June",
+  "July","August","September","October","November","December");
+  document.write(M[n] + " " + today.getDate() + " " + Y + "<BR>");
+ //-->
+ </SCRIPT>
+<A HREF="index.html"><IMG SRC="images/english.gif" ALT="English" BORDER=0 WIDTH=15 HEIGHT=13 align=bottom></A> &nbsp;
+<A HREF="deutsch/index.html"><IMG SRC="images/deutsch.gif" ALT="Deutsch" BORDER=0 WIDTH=15 HEIGHT=12 align=bottom></A>&nbsp;
+ </TD>
+ </TR>
+</TABLE>
+
+<nobr><B>
+<A HREF="http://www.fontseek.com"><img SRC="images/fs2.gif" ALT="download free font" BORDER=0 align=top></A> &nbsp; &nbsp; &nbsp; &nbsp; 
+<a class="menu" href="index.html">Home</a> &nbsp; &nbsp; 
+<a class="menu" href="livesearch.shtml">Live-Search</a> &nbsp; &nbsp; 
+<a class="menu" href="fonts/index.html">Top Fonts</a> &nbsp; &nbsp;
+<a class="menu" href="fontviewer.html">Font Viewer</a>
+</B></nobr>
+<BR>
+<div id="wo"><a href="http://www.fontseek.com">Home</a> > Live-Search</div>
+
+<CENTER>
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=2 bgcolor=#6B1819><TR><TD WIDTH=382>
+	<CENTER><FONT FACE="Verdana,Arial,Helvetica" COLOR=#FFCC00 SIZE=-1><B>
+	<!--Live Search - See current Fontseek searches!-->
+	See what other visitors are searching for!<BR>
+	</B></FONT></CENTER>
+</TD></TR></TABLE>
+
+<TABLE bgcolor=#6B1819><TR><TD WIDTH=200>
+		<FONT FACE="Verdana,Arial,Helvetica" COLOR=#FFCC00 SIZE=-1><B>Font name</B></FONT>
+	</TD><TD WIDTH=90 align=right>
+		<FONT FACE="Verdana,Arial,Helvetica" COLOR=#FFCC00 SIZE=-1><B>Results</B></FONT>
+	</TD><TD WIDTH=90 align=Center>
+		<FONT FACE="Verdana,Arial,Helvetica" COLOR=#FFCC00 SIZE=-1><B>Time</B></FONT>
+	</TD></TR>
+</TABLE>
+<TABLE BORDER=0 bgcolor="#FCFCFC"><TR><TD WIDTH=200> &nbsp; <A HREF="cgi-bin/fsearch.pl?search=BOWTIE">BOWTIE</A></TD><TD WIDTH=90 align=Right>10 results </TD><TD WIDTH=90 align=Center>1 sec</TD></TR></TABLE>
+
+<TABLE BORDER=0 bgcolor="#EEEEEF"><TR><TD WIDTH=200> &nbsp; <A HREF="cgi-bin/fsearch.pl?search=PARTY">PARTY</A></TD><TD WIDTH=90 align=Right>48 results </TD><TD WIDTH=90 align=Center>1 sec</TD></TR></TABLE>
+<TABLE BORDER=0 bgcolor="#FCFCFC"><TR><TD WIDTH=200> &nbsp; <A HREF="cgi-bin/fsearch.pl?search=HONEYMOON">HONEYMOON</A></TD><TD WIDTH=90 align=Right>9 results </TD><TD WIDTH=90 align=Center>0 sec</TD></TR></TABLE>
+<TABLE BORDER=0 bgcolor="#EEEEEF"><TR><TD WIDTH=200> &nbsp; <A HREF="cgi-bin/fsearch.pl?search=TIES">TIES</A></TD><TD WIDTH=90 align=Right>53 results </TD><TD WIDTH=90 align=Center>1 sec</TD></TR></TABLE>
+
+<TABLE BORDER=0 bgcolor="#FCFCFC"><TR><TD WIDTH=200> &nbsp; <A HREF="cgi-bin/fsearch.pl?search=DRESS">DRESS</A></TD><TD WIDTH=90 align=Right>15 results </TD><TD WIDTH=90 align=Center>1 sec</TD></TR></TABLE>
+<TABLE BORDER=0 bgcolor="#EEEEEF"><TR><TD WIDTH=200> &nbsp; <A HREF="cgi-bin/fsearch.pl?search=DINGBATs">DINGBATs</A></TD><TD WIDTH=90 align=Right>47 results </TD><TD WIDTH=90 align=Center>1 sec</TD></TR></TABLE>
+<TABLE BORDER=0 bgcolor="#FCFCFC"><TR><TD WIDTH=200> &nbsp; <A HREF="cgi-bin/fsearch.pl?search=dakota">dakota</A></TD><TD WIDTH=90 align=Right>10 results </TD><TD WIDTH=90 align=Center>1 sec</TD></TR></TABLE>
+
+<TABLE BORDER=0 bgcolor="#EEEEEF"><TR><TD WIDTH=200> &nbsp; <A HREF="cgi-bin/fsearch.pl?search=disney">disney</A></TD><TD WIDTH=90 align=Right>23 results </TD><TD WIDTH=90 align=Center>1 sec</TD></TR></TABLE>
+<TABLE BORDER=0 bgcolor="#FCFCFC"><TR><TD WIDTH=200> &nbsp; <A HREF="cgi-bin/fsearch.pl?search=disney">disney</A></TD><TD WIDTH=90 align=Right>23 results </TD><TD WIDTH=90 align=Center>1 sec</TD></TR></TABLE>
+<TABLE BORDER=0 bgcolor="#EEEEEF"><TR><TD WIDTH=200> &nbsp; <A HREF="cgi-bin/fsearch.pl?search=disney">disney</A></TD><TD WIDTH=90 align=Right>23 results </TD><TD WIDTH=90 align=Center>1 sec</TD></TR></TABLE>
+
+<TABLE BORDER=0 bgcolor="#FCFCFC"><TR><TD WIDTH=200> &nbsp; <A HREF="cgi-bin/fsearch.pl?search=disney">disney</A></TD><TD WIDTH=90 align=Right>23 results </TD><TD WIDTH=90 align=Center>1 sec</TD></TR></TABLE>
+<TABLE BORDER=0 bgcolor="#EEEEEF"><TR><TD WIDTH=200> &nbsp; <A HREF="cgi-bin/fsearch.pl?search=disney">disney</A></TD><TD WIDTH=90 align=Right>23 results </TD><TD WIDTH=90 align=Center>1 sec</TD></TR></TABLE>
+<TABLE BORDER=0 bgcolor="#FCFCFC"><TR><TD WIDTH=200> &nbsp; <A HREF="cgi-bin/fsearch.pl?search=disney">disney</A></TD><TD WIDTH=90 align=Right>23 results </TD><TD WIDTH=90 align=Center>1 sec</TD></TR></TABLE>
+
+<TABLE BORDER=0 bgcolor="#EEEEEF"><TR><TD WIDTH=200> &nbsp; <A HREF="cgi-bin/fsearch.pl?search=disney">disney</A></TD><TD WIDTH=90 align=Right>23 results </TD><TD WIDTH=90 align=Center>1 sec</TD></TR></TABLE>
+<TABLE BORDER=0 bgcolor="#FCFCFC"><TR><TD WIDTH=200> &nbsp; <A HREF="cgi-bin/fsearch.pl?search=chalk">chalk</A></TD><TD WIDTH=90 align=Right>16 results </TD><TD WIDTH=90 align=Center>1 sec</TD></TR></TABLE>
+<TABLE BORDER=0 bgcolor="#EEEEEF"><TR><TD WIDTH=200> &nbsp; <A HREF="cgi-bin/fsearch.pl?search=@ÒM¥…‰n">@ÒM¥…‰n</A></TD><TD WIDTH=90 align=Right>0 results </TD><TD WIDTH=90 align=Center>1 sec</TD></TR></TABLE>
+
+
+
+<P>
+
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=1  bgcolor="#EEEEEF" WIDTH=380>
+<TR><TD colspan="3" bgcolor="#6B1819"><CENTER><FONT FACE="Verdana,Arial,Helvetica" COLOR=#FFCC00 SIZE=-1>
+		<B>Most wanted fonts of the last four weeks</B>
+		</FONT></CENTER>
+	</TD>
+</TR>
+<!-- Do not remove comments!  like MostWantedSTART,... -->
+<!--MostWantedSTART--><TR><TD WIDTH="30" bgcolor="#EEEEEF" align=CENTER>1</TD><TD WIDTH="170" bgcolor="#EEEEEF"> &nbsp; <A HREF="fonts/bauhaus.htm">bauhaus</A></TD><TD WIDTH="180" bgcolor="#EEEEEF"><IMG height=10 src="images/bar.jpg" width=180></TD></TR>
+<TR><TD WIDTH="30" bgcolor="#FCFCFC" align=CENTER>2</TD><TD WIDTH="170" bgcolor="#FCFCFC"> &nbsp; <A HREF="fonts/papyrus.htm">papyrus</A></TD><TD WIDTH="180" bgcolor="#FCFCFC"><IMG height=10 src="images/bar.jpg" width=117></TD></TR>
+<TR><TD WIDTH="30" bgcolor="#EEEEEF" align=CENTER>3</TD><TD WIDTH="170" bgcolor="#EEEEEF"> &nbsp; <A HREF="fonts/old_english.htm">old_english</A></TD><TD WIDTH="180" bgcolor="#EEEEEF"><IMG height=10 src="images/bar.jpg" width=114></TD></TR>
+<TR><TD WIDTH="30" bgcolor="#FCFCFC" align=CENTER>4</TD><TD WIDTH="170" bgcolor="#FCFCFC"> &nbsp; <A HREF="fonts/myriad.htm">myriad</A></TD><TD WIDTH="180" bgcolor="#FCFCFC"><IMG height=10 src="images/bar.jpg" width=113></TD></TR>
+<TR><TD WIDTH="30" bgcolor="#EEEEEF" align=CENTER>5</TD><TD WIDTH="170" bgcolor="#EEEEEF"> &nbsp; <A HREF="cgi-bin/fsearch.pl?search=handwriting+dakota">handwriting+dakota</A></TD><TD WIDTH="180" bgcolor="#EEEEEF"><IMG height=10 src="images/bar.jpg" width=111></TD></TR>
+<TR><TD WIDTH="30" bgcolor="#FCFCFC" align=CENTER>6</TD><TD WIDTH="170" bgcolor="#FCFCFC"> &nbsp; <A HREF="cgi-bin/fsearch.pl?search=Bard">Bard</A></TD><TD WIDTH="180" bgcolor="#FCFCFC"><IMG height=10 src="images/bar.jpg" width=108></TD></TR>
+<TR><TD WIDTH="30" bgcolor="#EEEEEF" align=CENTER>7</TD><TD WIDTH="170" bgcolor="#EEEEEF"> &nbsp; <A HREF="fonts/kids.htm">kids</A></TD><TD WIDTH="180" bgcolor="#EEEEEF"><IMG height=10 src="images/bar.jpg" width=55></TD></TR>
+<TR><TD WIDTH="30" bgcolor="#FCFCFC" align=CENTER>8</TD><TD WIDTH="170" bgcolor="#FCFCFC"> &nbsp; <A HREF="cgi-bin/fsearch.pl?search=dakota">dakota</A></TD><TD WIDTH="180" bgcolor="#FCFCFC"><IMG height=10 src="images/bar.jpg" width=51></TD></TR>
+<TR><TD WIDTH="30" bgcolor="#EEEEEF" align=CENTER>9</TD><TD WIDTH="170" bgcolor="#EEEEEF"> &nbsp; <A HREF="fonts/garamond.htm">garamond</A></TD><TD WIDTH="180" bgcolor="#EEEEEF"><IMG height=10 src="images/bar.jpg" width=49></TD></TR>
+<TR><TD WIDTH="30" bgcolor="#FCFCFC" align=CENTER>10</TD><TD WIDTH="170" bgcolor="#FCFCFC"> &nbsp; <A HREF="fonts/stencil.htm">stencil</A></TD><TD WIDTH="180" bgcolor="#FCFCFC"><IMG height=10 src="images/bar.jpg" width=46></TD></TR>
+<TR><TD WIDTH="30" bgcolor="#EEEEEF" align=CENTER>11</TD><TD WIDTH="170" bgcolor="#EEEEEF"> &nbsp; <A HREF="fonts/optima.htm">optima</A></TD><TD WIDTH="180" bgcolor="#EEEEEF"><IMG height=10 src="images/bar.jpg" width=44></TD></TR>
+<TR><TD WIDTH="30" bgcolor="#FCFCFC" align=CENTER>12</TD><TD WIDTH="170" bgcolor="#FCFCFC"> &nbsp; <A HREF="cgi-bin/fsearch.pl?search=monotype+corsiva">monotype+corsiva</A></TD><TD WIDTH="180" bgcolor="#FCFCFC"><IMG height=10 src="images/bar.jpg" width=43></TD></TR>
+<TR><TD WIDTH="30" bgcolor="#EEEEEF" align=CENTER>13</TD><TD WIDTH="170" bgcolor="#EEEEEF"> &nbsp; <A HREF="cgi-bin/fsearch.pl?search=comic">comic</A></TD><TD WIDTH="180" bgcolor="#EEEEEF"><IMG height=10 src="images/bar.jpg" width=42></TD></TR>
+<TR><TD WIDTH="30" bgcolor="#FCFCFC" align=CENTER>14</TD><TD WIDTH="170" bgcolor="#FCFCFC"> &nbsp; <A HREF="fonts/eurostile.htm">eurostile</A></TD><TD WIDTH="180" bgcolor="#FCFCFC"><IMG height=10 src="images/bar.jpg" width=42></TD></TR>
+<TR><TD WIDTH="30" bgcolor="#EEEEEF" align=CENTER>15</TD><TD WIDTH="170" bgcolor="#EEEEEF"> &nbsp; <A HREF="fonts/futura.htm">futura</A></TD><TD WIDTH="180" bgcolor="#EEEEEF"><IMG height=10 src="images/bar.jpg" width=40></TD></TR>
+<TR><TD WIDTH="30" bgcolor="#FCFCFC" align=CENTER>16</TD><TD WIDTH="170" bgcolor="#FCFCFC"> &nbsp; <A HREF="cgi-bin/fsearch.pl?search=Elephant">Elephant</A></TD><TD WIDTH="180" bgcolor="#FCFCFC"><IMG height=10 src="images/bar.jpg" width=36></TD></TR>
+<TR><TD WIDTH="30" bgcolor="#EEEEEF" align=CENTER>17</TD><TD WIDTH="170" bgcolor="#EEEEEF"> &nbsp; <A HREF="fonts/univers.htm">univers</A></TD><TD WIDTH="180" bgcolor="#EEEEEF"><IMG height=10 src="images/bar.jpg" width=36></TD></TR>
+<TR><TD WIDTH="30" bgcolor="#FCFCFC" align=CENTER>18</TD><TD WIDTH="170" bgcolor="#FCFCFC"> &nbsp; <A HREF="fonts/lucida.htm">lucida</A></TD><TD WIDTH="180" bgcolor="#FCFCFC"><IMG height=10 src="images/bar.jpg" width=36></TD></TR>
+<TR><TD WIDTH="30" bgcolor="#EEEEEF" align=CENTER>19</TD><TD WIDTH="170" bgcolor="#EEEEEF"> &nbsp; <A HREF="cgi-bin/fsearch.pl?search="></A></TD><TD WIDTH="180" bgcolor="#EEEEEF"><IMG height=10 src="images/bar.jpg" width=35></TD></TR>
+<TR><TD WIDTH="30" bgcolor="#FCFCFC" align=CENTER>20</TD><TD WIDTH="170" bgcolor="#FCFCFC"> &nbsp; <A HREF="cgi-bin/fsearch.pl?search=Norddruck">Norddruck</A></TD><TD WIDTH="180" bgcolor="#FCFCFC"><IMG height=10 src="images/bar.jpg" width=33></TD></TR>
+<TR><TD WIDTH="30" bgcolor="#EEEEEF" align=CENTER>21</TD><TD WIDTH="170" bgcolor="#EEEEEF"> &nbsp; <A HREF="cgi-bin/fsearch.pl?search=baby blocks">baby blocks</A></TD><TD WIDTH="180" bgcolor="#EEEEEF"><IMG height=10 src="images/bar.jpg" width=29></TD></TR>
+<TR><TD WIDTH="30" bgcolor="#FCFCFC" align=CENTER>22</TD><TD WIDTH="170" bgcolor="#FCFCFC"> &nbsp; <A HREF="cgi-bin/fsearch.pl?search=bliss">bliss</A></TD><TD WIDTH="180" bgcolor="#FCFCFC"><IMG height=10 src="images/bar.jpg" width=27></TD></TR>
+<TR><TD WIDTH="30" bgcolor="#EEEEEF" align=CENTER>23</TD><TD WIDTH="170" bgcolor="#EEEEEF"> &nbsp; <A HREF="cgi-bin/fsearch.pl?search=Blair">Blair</A></TD><TD WIDTH="180" bgcolor="#EEEEEF"><IMG height=10 src="images/bar.jpg" width=25></TD></TR>
+<TR><TD WIDTH="30" bgcolor="#FCFCFC" align=CENTER>24</TD><TD WIDTH="170" bgcolor="#FCFCFC"> &nbsp; <A HREF="cgi-bin/fsearch.pl?search=helvetica+rounded">helvetica+rounded</A></TD><TD WIDTH="180" bgcolor="#FCFCFC"><IMG height=10 src="images/bar.jpg" width=23></TD></TR>
+<TR><TD WIDTH="30" bgcolor="#EEEEEF" align=CENTER>25</TD><TD WIDTH="170" bgcolor="#EEEEEF"> &nbsp; <A HREF="cgi-bin/fsearch.pl?search=chalk">chalk</A></TD><TD WIDTH="180" bgcolor="#EEEEEF"><IMG height=10 src="images/bar.jpg" width=22></TD></TR>
+<TR><TD colspan="3" bgcolor=#FFFFFF align=RIGHT><FONT FACE="Verdana,Arial,Helvetica" COLOR=#c8c8c8 SIZE=-2>last update 6/13/2010</FONT></TD></TR><!--MostWantedEND-->
+</TABLE>
+
+<P>
+
+<FONT FACE="Verdana,Arial,Helvetica" SIZE=-2>
+ <CENTER>
+<A HREF="index.html">Home</A> &nbsp;|&nbsp; 
+<a href="livesearch.shtml">Live-Search</a> &nbsp;|&nbsp; 
+<a href="fonts/index.htm">Top Fonts</a> &nbsp;| &nbsp; 
+<a href="fontviewer.html">Font Viewer</a>
+<BR>
+<FONT FACE="Verdana,Arial,Helvetica" SIZE=-2>
+&#169; 
+<script type="text/javascript">
+ <!--
+  var today = new Date();
+  Y = today.getYear();
+  if(Y < 2000) Y+=1900;
+  document.write(Y);
+ //-->
+ </script>
+ <a href="copyright.html">FontSeek.com</a>
+<P>
+
+</body>
+</html>
